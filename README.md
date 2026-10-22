@@ -1,1 +1,1 @@
-# python_for_aiml
+in this project i am learning python for AI/ML with project development.
